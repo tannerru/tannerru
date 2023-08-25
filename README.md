@@ -21,7 +21,7 @@ Repository: https://github.com/tannerru/homelab
 
 🌐 **Terraform Wonders:** Infrastructure as Code at its finest. I've automated cloud deployments for [Your Use Case].
 
-Repository: [Link to the Repository]
+Repository: https://github.com/tannerru/terraform
 
 
 ### [Ansible Playbooks]
