@@ -1,16 +1,46 @@
-### Hi there 👋
+# Hello, 
 
-<!--
-**tannerru/tannerru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my digital homelab where chaos turns into order! I'm Tanner, a Sr.System Administrator with a knack for Automation and creating homelab marvels.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏠 Homelab Enthusiast: I love experimenting with systems and services at home.
+- 🛠️ Tech Stack: Vscode,Ansible-Semaphore,Terragrunt,Docker,Kubernetes,Proxmox,Python
+- 🌱 Learning: RHCSA
+
+## 🔥 Featured Projects
+
+### [Homelab Setup]
+
+🏡 **Homelab Wonderland:** A glimpse into my homelab setup. 
+
+Repository: https://github.com/tannerru/homelab
+
+
+### [Infrastructure as Code]
+
+🌐 **Terraform Wonders:** Infrastructure as Code at its finest. I've automated cloud deployments for [Your Use Case].
+
+Repository: [Link to the Repository]
+
+
+### [Ansible Playbooks]
+
+🚀 **Automating Everything with Ansible:** My collection of Ansible playbooks for provisioning, configuring, and managing various services.
+Repository: https://github.com/tannerru/Ansible
+
+
+### [Useful Scripts]
+
+📜 **Script Library:** My treasure trove of handy scripts for automating routine tasks. Shell, Python, you name it!
+
+Repository: https://github.com/tannerru/scripts
+
+
+## 🌐 Let's Connect
+
+Let's share DevOps war stories and homelab adventures! Connect with me on:
+
+- [LinkedIn](https://www.linkedin.com/in/tanner-rusher-b970ab91/)
+
+Feel free to reach out via email at [here!](mailto:tanner.github@outlook.com). Let's automate and innovate!
