@@ -19,7 +19,7 @@ Repository: https://github.com/tannerru/homelab
 
 ### [Infrastructure as Code]
 
-🌐 **Terraform Wonders:** Infrastructure as Code at its finest. I've automated cloud deployments for [Your Use Case].
+🌐 **Terraform Wonders:** Infrastructure as Code at its finest.
 
 Repository: https://github.com/tannerru/terraform
 
