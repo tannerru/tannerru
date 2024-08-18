@@ -21,7 +21,8 @@ Repository: https://github.com/tannerru/homelab
 
 🌐 **Terraform Wonders:** Infrastructure as Code at its finest.
 
-Repository: https://github.com/tannerru/terraform
+Repository: https://github.com/NerdServer/proxmox-terraform
+Repository: https://github.com/NerdServer/proxmox-terraform-modules
 
 
 ### [Ansible Playbooks]
